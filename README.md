@@ -9,7 +9,7 @@ An enterprise-grade SaaS platform designed for high-concurrency, multi-modal Dee
 ## 📌 Web UI Demonstration
 
 *(Internal Dev Snapshot - UI Core)*
-![Product Demo](./demo_ui.png) 
+![Product Demo](./demo_ui1.png) 
 
 ## ⚙️ System Architecture
 
