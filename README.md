@@ -8,8 +8,13 @@ An enterprise-grade SaaS platform designed for high-concurrency, multi-modal Dee
 
 ## 📌 Web UI Demonstration
 
-*(Internal Dev Snapshot - UI Core)*
-![Product Demo](./demo_ui1.png) 
+*(Internal Dev Snapshots - MVP Frontend)*
+
+**1. Data Input & Analysis Configuration**
+![Upload Interface](./demo_ui1.png)
+
+**2. Multi-Agent Reasoning & Evidence Chain Report**
+![Analysis Results](./demo_ui2.png)
 
 ## ⚙️ System Architecture
 
